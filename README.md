@@ -5,7 +5,7 @@ Simple extension spoofer that will change your dangerous file (not only) into so
 Launch:
 > release/Extension-Spoofer.exe
 
-Or from source (AutoIt and Python3 are required):
+Or from source (Python3 is required):
 > src/main.bat
 
 Example files are stored in:
