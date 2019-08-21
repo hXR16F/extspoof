@@ -1,4 +1,4 @@
-# Extension Spoofer
+# Extension Spoofer - [YouTube](https://www.youtube.com/watch?v=Djwpv61lc4s)
 Simple extension spoofer that will change your dangerous file (not only) into something like "Presentation-for_schoolexe.pptx", "exeexeexe.txt", "notepadbat.jpg" without ".exe", ".bat", ".cmd" etc. at the end.
 
 # Usage
