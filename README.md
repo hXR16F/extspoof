@@ -8,3 +8,7 @@
 
 # Description
 Simple extension spoofer that will change your dangerous file (not only) into something like "Presentation-for_schoolexe.pptx", "exeexeexe.txt", "notepadbat.jpg" without ".exe", ".bat", ".cmd" etc. at the end.
+
+# Donate
+If you support my work or like my projects, you can donate me some money. Thank you 💙\
+BTC: `bc1q9trutvumrfuwrdwj377xd7u2flyp527j6t6qh9`
